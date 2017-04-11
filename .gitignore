@@ -1,0 +1,8 @@
+/.settings/
+/.project
+
+# IntelliJ
+.idea/
+*.iws
+*.ipr
+*.iml
