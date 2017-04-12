@@ -1,5 +1,6 @@
 /.settings/
 /.project
+/target
 
 # IntelliJ
 .idea/
